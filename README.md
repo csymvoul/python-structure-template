@@ -1,8 +1,7 @@
-# Python-Structure-template
-A python project to use as a template when developing a python application
+# A template to structure your Python application
+A python project to use as a template when developing a Python application.
 
-In order to create a Python project with a similar structure you need to do the following: 
-
+## In order to create a Python project with a similar structure you need to do the following: 
 ### The structure of the project should be as follows: 
 ```
 ├── README.md
