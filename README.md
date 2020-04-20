@@ -52,7 +52,7 @@ from . import package_1, package_2
 
 ### After that, you need to run the `setup.py` as follows: 
 #### While being in the root of the folder run the following command: `pip install -e .`
-An `example.egg-info` directory should now be created in the root directory. 
+An `example.egg-info` directory should now be created in the root directory: 
 ```
 project
 ├── README.md
@@ -75,7 +75,7 @@ project
 └── tests
     └── __init__.py
 ```
-If everything when according to plan, you should be able to use the modules you developed in the `package_1` from the `package_2` directory. 
+If everything when according to plan, you should be able to use the modules you developed in the `package_1` from the `package_2` directory likewise: 
 
 ```
 # example/package_2/module.py
