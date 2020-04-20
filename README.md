@@ -4,6 +4,7 @@ A python project to use as a template when developing a Python application.
 ## In order to create a Python project with a similar structure you need to do the following: 
 ### The structure of the project should be as follows: 
 ```
+project
 ├── README.md
 ├── example
 │   ├── __init__.py
